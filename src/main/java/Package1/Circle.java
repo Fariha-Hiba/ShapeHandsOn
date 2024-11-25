@@ -8,6 +8,7 @@ public class Circle extends Shape {
 		super(colour);
 		this.colour=colour;
 		// TODO Auto-generated constructor stub
+	
 	}
 
 
